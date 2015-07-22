@@ -11,6 +11,10 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 
 ### Full-Stack Neuroscientist in Training {#idonteven .description}
 
+![](icons/twitter.png) @usethespacebar {#twitter .twitter} | 
+![](icons/gmail.png) GrantRVD {#gmail .email} | 
+![](icons/github.png) GrantRVD {#github .github}
+
 ## Teaching {#teaching .cvsechead}
 
 ## Education {#education .cvsechead}
