@@ -11,6 +11,8 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 
 ### Full-Stack Neuroscientist in Training {#idonteven .description}
 
+## Teaching {#teaching .cvsechead}
+
 ## Education {#education .cvsechead}
 
 ## Outreach & Service {#outreach .cvsechead}
