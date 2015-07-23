@@ -15,9 +15,9 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 ![](icons/gmail.png) GrantRVD {#gmail .email} | 
 ![](icons/github.png) GrantRVD {#github .github}
 
-## Teaching {#teaching .cvsechead}
-
 ## Education {#education .cvsechead}
+
+## Teaching {#teaching .cvsechead}
 
 ## Outreach & Service {#outreach .cvsechead}
 
