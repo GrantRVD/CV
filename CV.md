@@ -16,6 +16,16 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 ![](icons/github.png) GrantRVD {#github .github}
 
 ## Education {#education .cvsechead}
+* 2011 - 2014   University of California, San Diego {.eduel}
+    + Ph.D., Electrical and Computer Engineering
+    - Major: Nanoscale Devices and Systems
+    + *Withdrew to pursue neuroscience research*
+
+* 2006 - 2011   University of California, Irvine {.eduel}
+    + B.S., Computer Science
+    + B.A., Philosophy
+    + B.S., General Engineering (Computer & Biomedical)
+    + Minor, Cognitive Science
 
 ## Teaching {#teaching .cvsechead}
 
