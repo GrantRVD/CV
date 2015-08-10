@@ -1,5 +1,4 @@
 ---
-title: Grant's Curriculum Vitae
 author: Grant R. Vousden-Dishington
 subject: Summarizing my research and education experiences up until now in a web-friendly format
 date: 11 Aug 2015
@@ -11,9 +10,9 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 
 ## Full-Stack Neuroscientist in Training {#idonteven .description}
 
-####![](icons/twitter.png) @usethespacebar {#twitter .twitter} 
-####![](icons/gmail.png) GrantRVD {#gmail .email}
-####![](icons/github.png) GrantRVD {#github .github}
+####![](icons/twitter.png) @usethespacebar {#twitter .contact} 
+####![](icons/gmail.png) GrantRVD {#gmail .contact}
+####![](icons/github.png) GrantRVD {#github .contact}
 
 ## Education {#education .cvsechead}
 * * * *
