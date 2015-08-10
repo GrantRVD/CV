@@ -1,11 +1,15 @@
-title  {
-	display: none !important;
-}
-
 body {
 	background-image: url("backgrounds/crossword/crossword/crossword.png");
 }
 
 h1 {
 	color: darkcyan;
+}
+
+.cvsechead {
+	color: darkgray;
+}
+
+.subteaching {
+	color: darkgray;
 }

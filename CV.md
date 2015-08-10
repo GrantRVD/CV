@@ -15,7 +15,6 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 ####![](icons/github.png) GrantRVD {#github .contact}
 
 ## Education {#education .cvsechead}
-* * * *
 * 2011 - 2014   University of California, San Diego
     + Ph.D., Electrical and Computer Engineering
     - Major: Nanoscale Devices and Systems
@@ -28,7 +27,7 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
     + Minor, Cognitive Science
 
 ## Teaching {#teaching .cvsechead}
-* * * *
+
 ### Teaching Assistant {#TA .subteaching}
 * ECE 15: Introduction to C Programming - UC San Diego
     - Summer 2012
@@ -36,7 +35,7 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
     - Fall 2013
     + 96% positive feedback
 
-### Instructor {#instructorship .subteachings}
+### Instructor {#instructorship .subteaching}
 * Uni Stu 10 - Mind/Man/Machine Seminar - UC Irvine
     - Spring 2009
     - Spring 2010
