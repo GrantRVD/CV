@@ -1,5 +1,6 @@
 body {
 	background-image: url("backgrounds/crossword/crossword/crossword.png");
+	font-family: Arial;
 }
 
 h1 {
@@ -12,4 +13,5 @@ h1 {
 
 .subteaching {
 	color: darkgray;
+	font-style: italic;
 }
