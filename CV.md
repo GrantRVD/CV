@@ -44,5 +44,19 @@ keywords: Grant R. Vousden-Dishington, neuroscience, computer science, programmi
 ## Outreach & Service {#outreach .cvsechead}
 
 ## Honors & Awards {#awards .cvsechead}
+* Graduate Research Fellowship Program
+    - *National Science Foundation*
+    - Awarded Spring 2011
+
+## Hackathons & Competitions {#hack .cvsechead}
+* Big Neuron Hackathon (invitational)
+    - *June 1-5 at Janelia Farm Research Campus*
+    - Porting automated neuron morphology analysis algorithms to Vaa3D
+* BD2k/Internet of BioThings hackathon
+    - *Scripps Research Institute*
+    - Worked with team to standardize biomedical API with in JSON-LD format
+* NeuroGaming Hackathon
+    - OpenBCI EEG equipment software development (2014)
+    - Control of 3D-Printed prosthesis (2015)
 
 ## Failures {#fail .cvsechead}

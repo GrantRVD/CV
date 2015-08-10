@@ -1,6 +1,7 @@
 body {
 	background-image: url("backgrounds/crossword/crossword/crossword.png");
 	font-family: Arial;
+	margin-left: 80px;
 }
 
 h1 {
@@ -14,8 +15,13 @@ h1 {
 .subteaching {
 	color: darkgray;
 	font-style: italic;
+	margin-left: 40px;
 }
 
 ul {
 	list-style-type: none;
+}
+
+.contact {
+	float-defer-column: last;
 }
