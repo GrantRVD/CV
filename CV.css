@@ -8,8 +8,13 @@ h1 {
 	color: darkcyan;
 }
 
+.contact {
+	margin: 0 0 10px 0;
+	float: left;
+}
+
 .cvsechead {
-	color: darkgray;
+	color: lightsteelblue;
 }
 
 .subteaching {
@@ -24,8 +29,4 @@ ul {
 
 li {
 	margin: 0 0 10px 0;
-}
-
-.contact {
-	float-defer-column: last;
 }
