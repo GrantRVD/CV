@@ -2,14 +2,14 @@
 title: Grant R. Vousden-Dishington Curriculum Vitae
 author: Grant R. Vousden-Dishington
 subject: Summarizing my research and education experiences in a web-friendly format
-date: 10 Sept 2015
+date: 30 Jan 2016
 company: None
 keywords: Grant,  Vousden-Dishington, neuroscience, computer science, programming, machine learning, electrophysiology, computational psychiatry, CV, curriculum vitae, teaching
 ---
 
 # Grant R. Vousden-Dishington {#name .myname}
 
-## Full-Stack Neuroscientist in Training {#idonteven .description}
+## Data Neuroscientist {#idonteven .description}
 
 # Education {#education .cvsechead}
 * 2011 - 2014   University of California, San Diego
@@ -69,6 +69,9 @@ keywords: Grant,  Vousden-Dishington, neuroscience, computer science, programmin
 # Science Communication {#scicomm .cvsechead}
 * *SynBioBeta SF 2015: Synthetic Biology Unites Industry and Academia*
     - SynBioBeta SF 2015 - November 2015 at UC San Francisco
+
+* *iGEM 2015 Giant Jamboree: What's All The NOISE About?*
+    - iGEM 2015 Giant Jamboree - September 2015
     
 * *Engineering Cells for Medicine and Science*
     - 2nd Mammalian Synthetic Biology Workshop - March 2015 at MIT  
