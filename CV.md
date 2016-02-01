@@ -67,6 +67,9 @@ keywords: Grant,  Vousden-Dishington, neuroscience, computer science, programmin
     - UC Irvine, Center for the Neurobiology of Learning and Memory (2010-2011)
 
 # Science Communication {#scicomm .cvsechead}
+* *SynBioBeta SF 2015: Synthetic Biology Unites Industry and Academia*
+    - SynBioBeta SF 2015 - November 2015 at UC San Francisco
+    
 * *Engineering Cells for Medicine and Science*
     - 2nd Mammalian Synthetic Biology Workshop - March 2015 at MIT  
     Contributor with PLOS Synthetic Biology Community coverage of msbw2.0
