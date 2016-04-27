@@ -1,15 +1,11 @@
 ---
-title: Grant R. Vousden-Dishington Curriculum Vitae
+title: Grant R. Vousden-Dishington
 author: Grant R. Vousden-Dishington
 subject: Summarizing my research and education experiences in a web-friendly format
 date: 30 Jan 2016
 company: None
 keywords: Grant,  Vousden-Dishington, neuroscience, computer science, programming, machine learning, electrophysiology, computational psychiatry, CV, curriculum vitae, teaching
 ---
-
-# Grant R. Vousden-Dishington {#name .myname}
-
-## Data Neuroscientist {#idonteven .description}
 
 # Education {#education .cvsechead}
 * 2011 - 2014   University of California, San Diego
@@ -100,5 +96,3 @@ keywords: Grant,  Vousden-Dishington, neuroscience, computer science, programmin
 * NeuroGaming Hackathon
     - OpenBCI EEG equipment software development (2014)  
     Control of 3D-Printed prosthesis (2015)
-
-# 
